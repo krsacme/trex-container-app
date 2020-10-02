@@ -1,2 +1,2 @@
-**Moved to [rh-nfv-int](https://github.com/rh-nfv-int/nfv-example-cnf-deploy) org**
+**Moved to [rh-nfv-int](https://github.com/rh-nfv-int/trex-container-app) org**
 ===================================================================================
